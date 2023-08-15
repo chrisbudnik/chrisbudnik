@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chrisbudnik
-- 👀 I’m fascinated by aplications of ai to build better products
-- 🌱 I’m currently learning Machine Learning & NLP (OpenAI api, nltk, Langchain)
-- 💞️ I’m looking to collaborate on data driven projects
+- 🌱 Currently learning ML & NLP (OpenAI api, nltk, Langchain)
+- 👀 Now working on youtube-research project where I explore and process Youtube data. (Python)
+- 💞️ Always looking to collaborate on data driven projects
 - 📫 You can reach out with email: chrism.budnik@gmail.com
 
 <!---
