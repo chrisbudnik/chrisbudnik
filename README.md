@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @chrisbudnik
-- 🌱 Currently learning ML & NLP (OpenAI api, nltk, Langchain)
-- 👀 Now working on youtube-research project where I explore and process Youtube data. (Python)
-- 💞️ Always looking to collaborate on data driven projects
-- 📫 You can reach out with email: chrism.budnik@gmail.com
+### Hi there! I'm Chris Budnik 👋
+
+- 💡 **Passion**: Diving deep into **Machine Learning** and **Natural Language Processing**.
+  - Tools I'm exploring: **OpenAI API**, **nltk**, and **Langchain**.
+- 🚀 **Current Project**: Delving into the world of YouTube through my **`youtube-data`** project. I'm exploring and processing YouTube data using Python (object oriented approach).
+- 📚 **Learning**: Enhancing my skills in **vector & graph databases**, **transformer models**, and **data development on GCP**.
+- 🤝 **Collaboration**: Always excited about teaming up on data-centric projects. Let's innovate together!
 
 <!---
 chrisbudnik/chrisbudnik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
