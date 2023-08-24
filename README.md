@@ -3,7 +3,7 @@
 - 💡 **Passion**: Diving deep into **Machine Learning** and **Natural Language Processing**.
   - Tools I'm exploring: **OpenAI API**, **nltk**, and **Langchain**.
 - 🚀 **Current Project**: Delving into the world of YouTube through my **`youtube-data`** project. I'm exploring and processing YouTube data using Python (object oriented approach).
-- 📚 **Learning**: Enhancing my skills in **vector & graph databases**, **transformer models**, and **data development on GCP**.
+- 📚 **Learning**: **data development on GCP**, **vector & graph databases**, **transformer models**.
 - 🤝 **Collaboration**: Always excited about teaming up on data-centric projects. Let's innovate together!
 
 <!---
