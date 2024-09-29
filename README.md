@@ -1,9 +1,11 @@
 ### Hi there! I'm Chris Budnik 👋
 
-- 💡 **Passion**: Diving deep into **Machine Learning** and **Natural Language Processing**.
-  - Tools I'm exploring: **OpenAI API**, **nltk**, and **Langchain**.
-- 🚀 **Current Project**: Delving into the world of YouTube through my **`youtube-data`** project. I'm exploring and processing YouTube data using Python (object oriented approach).
-- 📚 **Learning**: **data development on GCP**, **vector & graph databases**, **transformer models**.
+- 💡 **Passion**: Implementing technology to solve real-world problems.
+- 🚀 **Current Project**: LLM-Frames - python framework for extending text data into meaningful categories with LLM APIs.
+- 📚 **Learning**:
+  - LangChain & OpenAI API
+  - Data & ML Engineering on Google Cloud Platform
+  - LLM & NLP: Transformers, Prompt Enginnering, Agents
 - 🤝 **Collaboration**: Always excited about teaming up on data-centric projects. Let's innovate together!
 
 <!---
