@@ -1,12 +1,18 @@
-### Hi there! I'm Chris Budnik 👋
+### Hi there, I’m Chris Budnik 👋
+Data Engineer working on API integrations, agentic AI systems, and e-commerce analytics.
 
-- 💡 **Passion**: Implementing technology to solve real-world problems.
-- 🚀 **Current Project**: LLM-Frames - python framework for extending text data into meaningful categories with LLM APIs.
-- 📚 **Learning**:
-  - LangChain & OpenAI API
-  - Data & ML Engineering on Google Cloud Platform
-  - LLM & NLP: Transformers, Prompt Enginnering, Agents
-- 🤝 **Collaboration**: Always excited about teaming up on data-centric projects. Let's innovate together!
+### 🛠️ What I’m building
+* **agentic-chatbot**
+  A custom **agentic AI framework** with tool calling, callbacks, and real-time event streaming.
+  Currently working on a **RAG agent** with citations, image outputs, and Google Search grounding, plus a frontend app for experimentation.
+* **gcp-investing-bot**
+  An investing bot deployed on a **GCP VM** with fully automated setup and deployment.
+  Focused on strategy execution — currently implementing **DCA**.
+
+### 📚 Learning & exploring
+* Agentic AI & LLM systems, Designing RAG system
+
+🤝 Always happy to collaborate on **data-centric and AI-driven projects**.
 
 <!---
 chrisbudnik/chrisbudnik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
