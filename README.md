@@ -1,7 +1,7 @@
 ### Hi there, I’m Chris Budnik 👋
 Data Engineer working on API integrations, agentic AI systems, and e-commerce analytics.
 
-### 🛠️ What I’m building
+### 🛠️ What I’m building (personal-projects)
 * **agentic-chatbot**
   A custom **agentic AI framework** with tool calling, callbacks, and real-time event streaming.
   Currently working on a **RAG agent** with citations, image outputs, and Google Search grounding, plus a frontend app for experimentation.
